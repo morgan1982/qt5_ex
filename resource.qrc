@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>assets/power_btn.png</file>
+        <file>assets/exit.png</file>
+        <file>assets/bat.png</file>
+    </qresource>
+</RCC>
